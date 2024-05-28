@@ -1,4 +1,8 @@
-## Hi there 👋
+## Sangmin's Github
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20&fontColor=auto&animation=fadeIn&fontAlign=20)
+
+
 
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
