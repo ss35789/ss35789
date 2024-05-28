@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ss35789)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ss35789&hide=contribs,prs&show_icons=true&theme=테마)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 <!--
 **ss35789/ss35789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
